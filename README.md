@@ -94,3 +94,9 @@ Built as part of practical technical SEO and workflow-automation work. This repo
 
 - Website: [sandeepgoel.me](https://sandeepgoel.me/)
 - LinkedIn: [Sandeep Goel](https://www.linkedin.com/in/sandeepgoel-ai-seo-expert/)
+
+
+## Documentation
+
+- [Workflow Summary](docs/workflow-summary.md): Overview of the automation stages and integrations.
+- [Setup and Security Checklist](docs/setup-and-security.md): Prerequisites, configuration guidance, security measures, and deployment validation.
